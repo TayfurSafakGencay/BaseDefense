@@ -97,3 +97,9 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+BaseDefense/Library/
+BaseDefense/Temp/Burst/
+BaseDefense/UserSettings/
+BaseDefense/Temp/
+BaseDefense/Assets/TutorialInfo/
+BaseDefense/Assets/TutorialInfo.meta
